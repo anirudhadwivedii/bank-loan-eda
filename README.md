@@ -8,7 +8,7 @@ This project performs Exploratory Data Analysis (EDA) on a bank loan dataset to 
 ## 📂 Dataset
 - The dataset is a publicly available bank loan dataset.
 - It contains applicant demographic, financial, and property-related information along with loan approval status.
-- The dataset used for analysis is stored in the `data/` folder.
+- The dataset used for analysis is stored in the `loan_dataset.csv` file.
 
 ---
 
